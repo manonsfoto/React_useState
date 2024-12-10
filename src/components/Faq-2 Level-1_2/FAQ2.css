@@ -1,0 +1,34 @@
+.section_faq {
+  background-color: rgb(50, 48, 57);
+  color: #fff;
+  width: 50vw;
+  padding: 2rem;
+  margin: 2rem auto;
+}
+.section_faq button {
+  width: 1rem;
+  height: 1rem;
+  color: #646262;
+}
+
+.question {
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1rem;
+  font-weight: 700;
+}
+
+.show {
+  display: block;
+}
+.hide {
+  display: none;
+}
+.answer {
+  flex-direction: row;
+  justify-content: space-between;
+  padding-right: 1rem;
+}
+.detailedAnswer {
+  line-height: 150%;
+}

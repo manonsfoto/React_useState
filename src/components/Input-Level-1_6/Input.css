@@ -1,0 +1,10 @@
+.section_input {
+  background-color: rgb(107, 153, 199);
+  width: 60vw;
+  gap: 2rem;
+  padding: 1rem 3rem;
+  margin: 2rem auto;
+}
+.output {
+  align-self: start;
+}

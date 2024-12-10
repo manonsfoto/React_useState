@@ -1,0 +1,11 @@
+.counter_box {
+  flex-direction: row;
+  gap: 1rem;
+}
+.section_counter {
+  border: 1px solid black;
+  width: 20vw;
+  gap: 1rem;
+  padding: 1rem 3rem;
+  margin: 2rem auto;
+}

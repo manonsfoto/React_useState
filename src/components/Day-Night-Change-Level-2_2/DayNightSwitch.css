@@ -1,0 +1,25 @@
+.section_dayNightSwitch {
+  width: 60vw;
+  height: 70vh;
+  border: 1px solid black;
+  gap: 2rem;
+  padding: 1rem 3rem;
+  margin: 2rem auto;
+}
+.section_dayNightSwitch h1 {
+  font-size: 4rem;
+}
+.btn_switch {
+  border-radius: 10px;
+  padding: 0.3rem;
+  background-color: #fff;
+}
+
+.night {
+  background-color: black;
+  color: #fff;
+}
+.day {
+  background-color: #fff;
+  color: black;
+}
